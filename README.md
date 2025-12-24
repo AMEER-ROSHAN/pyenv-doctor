@@ -8,6 +8,8 @@
 
 It helps developers quickly identify issues related to Python versions, virtual environments, missing dependencies, and required system libraries — reducing setup and debugging time.
 
+Source code: https://github.com/AMEER-ROSHAN/pyenv-doctor
+
 ---
 
 ## ✨ Features
